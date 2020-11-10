@@ -1,2 +1,1 @@
-# SpringMicroservices
-Configuration properties of WeCareMS
+# WeCare_Microservices
